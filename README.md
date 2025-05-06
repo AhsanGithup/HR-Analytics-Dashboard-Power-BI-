@@ -68,5 +68,3 @@ The dataset includes information on:
 
 ### 📷 Dashboard Preview
 
-![Power BI Sales Dashboard Overview](https://github.com/user-attachments/assets/feff9d99-e988-4116-93fc-eaa3abd471c5)
-
