@@ -68,4 +68,4 @@ The dataset includes information on:
 
 ### 📷 Dashboard Preview
 
-https://github.com/AhsanGithup/HR-Analytics-Dashboard-Power-BI-/blob/main/HR%20Analytics%20Dashboard.pdf
+HR Analytics Dashboard.pdf
