@@ -67,3 +67,5 @@ The dataset includes information on:
 ---
 
 ### 📷 Dashboard Preview
+
+![image](https://github.com/user-attachments/assets/bd2e6688-3843-41f3-8a41-126c668e3075)
